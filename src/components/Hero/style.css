@@ -1,0 +1,34 @@
+.img-style {
+  margin-top: 50px;
+  margin-right: 50px;
+  border-radius: 5%;
+  float: right;
+}
+
+.intro-style {
+  float: left;
+  margin-top: 250px;
+  margin-left: 100px;
+}
+
+.hello-style {
+  font-size: 4.5rem;
+  line-height: 1;
+  letter-spacing: 0.05em;
+  color: rgb(232, 130, 27);
+  font-family: Quattrocento, serif;
+}
+
+.name-style {
+  margin-top: 20px;
+  font-size: 5.5rem;
+  line-height: 1;
+  letter-spacing: 0.05em;
+  color: black;
+  font-family: Quattrocento, serif;
+}
+
+.skill-style {
+  color: rgba(22, 20, 18, 0.6);
+  font-family: Quattrocento, serif;
+}

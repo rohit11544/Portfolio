@@ -1,0 +1,12 @@
+#skill-style {
+  height: 1200px;
+  width: 50%;
+  margin: auto;
+}
+.tech-style {
+  font-size: 1.5rem;
+  line-height: 1;
+  letter-spacing: 0.05em;
+  color: rgb(232, 130, 27);
+  font-family: Quattrocento, serif;
+}
