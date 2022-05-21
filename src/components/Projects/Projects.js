@@ -83,6 +83,27 @@ function Projects() {
       code: "https://github.com/rohit11544/pem-joy-client",
       app: "https://pem-joy-app.herokuapp.com/",
     },
+     {
+      title: "MyWays-Blogs",
+      imgLink:
+        "https://knilt.arcc.albany.edu/images/0/0f/Aablog.jpg",
+      date: "Feb 2021 - Mar 2022",
+      discription:
+       "An end to end blogging application. this application provids blogs. and also authorised users can publish there own blogs. the authorization is given by the admin. All the users can like and comment on a particular blog. This application has been deployed and hosted.",
+      tech: [
+        "React",
+        "Redux",
+        "Mongo DB",
+        "Node js",
+        "Express",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Bootstrap",
+      ],
+      code: "https://github.com/rohit11544/pem-joy-client",
+      app: "https://pem-joy-app.herokuapp.com/",
+    },
     {
       title: "FARMERS-JOY",
       imgLink:
