@@ -10,7 +10,7 @@ function Hero() {
         <h2 className="skill-style">Full-Stack Developer | Data-Scientist </h2>
       </div>
 
-      <img className="img-style" src={img} alt="rohit" w={300} h={300} />
+      <img className="img-style" src={img} alt="rohit" />
     </>
   );
 }
